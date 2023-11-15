@@ -1,0 +1,14 @@
+.loginPage{
+    background-color: rgb(92, 93, 204);
+    width: 100%;
+    border-radius: 10px;
+}
+.form-cointainer{
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+}
+form{
+   align-items: center;
+   margin: 5%;
+}
